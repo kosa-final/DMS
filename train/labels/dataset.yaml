@@ -1,0 +1,12 @@
+path: C:\Dev_2a\final_project\dataset\randomsplit
+train: C:\Dev_2a\final_project\dataset\randomsplit\train\images
+val: C:\Dev_2a\final_project\dataset\randomsplit\validation\images
+test: C:\Dev_2a\final_project\dataset\randomsplit\test\images
+nc: 6
+names:
+- Face
+- Leye
+- Reye
+- Mouth
+- Cigar
+- Phone
